@@ -8,7 +8,9 @@ function Sobre() {
     <div>
         <h2>Sobre mim</h2>
         <p>
-            Sou um Desenvolvedor FULL STACK. Tenho conhecimento em HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS. Atualmente trabalho 9 meses como freelancer desenvolvendo projetos com essas tecnologias.
+        Sou desevolvedor front end com 1 ano de experiencia em desevolvimento web possuo conhecimento nas tecnologias
+         HTML, CSS ,JAVASCRIPT, REACT, TYPSCRIPT, NODE, GIT, GITHUB com noçoes
+         basicas de SQL. com foco em apreder novas habilidades e aumentar meus resultados
         </p>
     </div>
 </section>
