@@ -10,7 +10,9 @@ function Sobre() {
         <p>
         Sou desevolvedor front end com 1 ano de experiencia em desevolvimento web possuo conhecimento nas tecnologias
          HTML, CSS ,JAVASCRIPT, REACT, TYPSCRIPT, NODE, GIT, GITHUB com noçoes
-         basicas de SQL. com foco em apreder novas habilidades e aumentar meus resultados
+         basicas de SQL.Estou aberto a novos desafios e oportunidades de aprendizado! Ansioso
+          para contribuir com equipes inovadoras e colaborar no
+          desenvolvimento de soluções impactantes. 
         </p>
     </div>
 </section>

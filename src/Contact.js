@@ -7,8 +7,7 @@ import Gmail from './Img/Gmail-Logo.png'
 function Contact() {
   return (
     <footer id="fale-comigo">
-    <h5>julio luciano</h5>
-    <p>para mais informaçoes e contato</p>
+   
     <div class="social">
     <a href="https://github.com/juliobtg" target="_blank"><img src={Git} /></a>
     <a href="https://wa.me/+5531998974734" target="_blank"><img src={Wat} /></a>

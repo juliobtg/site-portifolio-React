@@ -1,7 +1,7 @@
 import Main from './MainBox'
 import Sobre from './Sobre';
 import Projects from './Projects';
-import Contact from './Contact';
+//import Contact from './Contact';
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
      <Main />
      <Sobre />
      <Projects />
-     <Contact />
+     
    </div>
   );
 }

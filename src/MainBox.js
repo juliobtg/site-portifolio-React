@@ -1,4 +1,6 @@
 import React from 'react'
+import Contact from './Contact';
+
 
 function teste() {
   return (
@@ -10,13 +12,12 @@ function teste() {
             <li><a class="link-menu" href="#home">Home</a></li>
             <li><a  class="link-menu" href="#sobre">sobre min</a></li>
             <li><a  class="link-menu" href="#projetos-id">projetos</a></li>
-            <li><a  class="link-menu" href="#fale-comigo">fale comigo</a></li>
         </ul>
     </nav>
 <div class="meu-nome">
 <h1>Julio <span>Luciano</span></h1>
 <h3>Desenvolvedor Front End </h3>
-
+<Contact /> 
 </div>
 </div>
   )
