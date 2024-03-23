@@ -16,7 +16,7 @@ function teste() {
     </nav>
 <div class="meu-nome">
 <h1>Julio <span>Luciano</span></h1>
-<h3>Desenvolvedor Front End </h3>
+<h3>Desenvolvedor Full Stack </h3>
 <Contact /> 
 </div>
 </div>

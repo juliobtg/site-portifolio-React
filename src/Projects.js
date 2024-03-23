@@ -13,9 +13,8 @@ function Projects() {
 
 <div class="card-projetos">
   <div class="card">
-    
-<h5>pizzashop</h5>
 <img src= {pizzashop} />
+<h5>pizzashop</h5>
 <p>Projeto de um site de entrega de uma pizzaria feito com HTML,CSS
   totalmente responsivo
 </p>
