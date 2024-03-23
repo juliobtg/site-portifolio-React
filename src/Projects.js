@@ -1,5 +1,5 @@
 import React from 'react'
-import Tudo from './Img/tudo.png'
+import pizzashop from './Img/pizzashop.png'
 import Ecomerce from './Img/ecomerce.png'
 import Buscador from './Img/buscador.png'
 
@@ -13,14 +13,13 @@ function Projects() {
 
 <div class="card-projetos">
   <div class="card">
-    <img src={Tudo} />
-<h5>Todo list</h5>
-
-<p>Projeto de uma lista de tarefas com HTML,CSS,JAVASCRIPT, que
-    adiciona e deleta itens da lista  e usa o local Storage para armarsenar
-    as informaçoes no navegador
+    
+<h5>pizzashop</h5>
+<img src= {pizzashop} />
+<p>Projeto de um site de entrega de uma pizzaria feito com HTML,CSS
+  totalmente responsivo
 </p>
-<a href="https://tudo-list-javascript.vercel.app" target="_blank">Ver projeto</a>
+<a href="https://pizza-shop-pi-blush.vercel.app/">Ver projeto</a>
   </div>
 
   <div class="card">
